@@ -8,3 +8,8 @@
 
 1. https://github.com/skylines-project/skylines/tree/master/skylines
 2. https://github.com/flaskbb/flaskbb
+3. https://github.com/apache/airflow
+4. https://github.com/Netflix/security_monkey
+5. https://github.com/Netflix/lemur
+6. https://github.com/mozilla/http-observatory
+7. https://github.com/ovh/celery-director
