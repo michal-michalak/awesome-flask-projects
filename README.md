@@ -13,3 +13,4 @@
 5. https://github.com/Netflix/lemur
 6. https://github.com/mozilla/http-observatory
 7. https://github.com/ovh/celery-director
+8. https://github.com/apache/superset/tree/master/superset
